@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+    line-height: 1.2em;
+    font-family: sans-serif;
+}
+
+#main {
+    width: 75%;
+    margin: 0 auto;
+
+}
+
+textarea {
+    width: 100%;
+    padding: 20px;
+}
